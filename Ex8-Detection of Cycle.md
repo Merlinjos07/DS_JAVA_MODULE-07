@@ -89,6 +89,4 @@ class DetectCycle {
 ## Result:
 
 The program successfully detects whether a cycle exists in the linked list. If a cycle is present, it correctly identifies and returns the node where the cycle begins.
-## Result:
-The program successfully detects whether a cycle exists in the linked list.
-If a cycle is present, it correctly identifies and returns the node where the cycle begins.
+
