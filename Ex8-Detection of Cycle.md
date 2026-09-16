@@ -85,7 +85,9 @@ class DetectCycle {
 ## Output:
 
 <img width="846" height="181" alt="image" src="https://github.com/user-attachments/assets/994bb040-a0e4-4c1b-8dac-9ea41deb6840" />
+
 ## Result:
+
 The program successfully detects whether a cycle exists in the linked list. If a cycle is present, it correctly identifies and returns the node where the cycle begins.
 ## Result:
 The program successfully detects whether a cycle exists in the linked list.
